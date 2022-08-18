@@ -1,5 +1,5 @@
 {
-  "name": "pin/common-tools",
+  "name": "zcpin/common-tools",
   "description": "一个通用的PHP工具库",
   "type": "library",
   "require": {
