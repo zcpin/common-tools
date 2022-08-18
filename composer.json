@@ -1,0 +1,23 @@
+{
+  "name": "pin/common-tools",
+  "description": "一个通用的PHP工具库",
+  "type": "library",
+  "require": {
+    "php": ">=7.2",
+    "ext-mbstring": "*",
+    "ext-zip": "*"
+  },
+  "license": "Apache",
+  "autoload": {
+    "psr-4": {
+      "CommonTools\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pin",
+      "email": "zhuchongpin@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
